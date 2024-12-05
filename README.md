@@ -14,7 +14,7 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/nodepay-airdrop-bot.git
+    git clone https://github.com/moneytree520/nodepay-airdrop-bot.git
     cd nodepay-airdrop-bot
     ```
 
@@ -33,7 +33,7 @@ Before running the bot, you need to set up your configuration:
 To get your Bearer token:
 
 1. **Register for a Nodepay account**:
-   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=3WZFKKi0Hbvi1sd) and sign up for an account.
+   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=19hxVMYFkueX3fe) and sign up for an account.
 
 2. **Get your token**:
    - Open **DevTools** in your browser (right-click > Inspect or press `Ctrl+Shift+I`).
@@ -117,9 +117,9 @@ Logs are stored in `bot.log` and can also be seen in the console.
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
+- **Solana**: `2FK5jNxG6PE5Z5dsP7KkGetrkDGu3ntnd5Dy2bHAFPRb`
+- **USDT(BSC)**: `0x2432AA3bB8f3D3C1513002caF028D9B3BB88C864`
+- **ETH**: `0x4b69Bd0996A73D339f1dcbD4f8868802cC246AbD`
 
 ## License
 
